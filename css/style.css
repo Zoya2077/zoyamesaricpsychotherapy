@@ -437,6 +437,17 @@ a#black.dropdown-item:hover {
     background-color: #00CDFF;
 }
 
+.curvedAboutImage {
+	max-width: 100%;
+     border-radius: 47%;
+}
+
+.curvedBorder{
+	border: solid;
+    border-radius: 18%;
+    border-color: black;
+}
+
 #cover_img {
 	height: 110%;
    	width: 100%;

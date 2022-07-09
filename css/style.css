@@ -513,6 +513,15 @@ h4{
 	}
 }
 
+@media screen and (max-width: 900px){
+	.curvedAboutImage {
+    max-width: 100%;
+    border-radius: 28%;
+    position: relative;
+    left: 0%;
+	}
+
+}
 
 @media screen and (max-width: 600px) {
 	.titleMessage .heading .main {

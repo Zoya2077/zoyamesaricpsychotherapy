@@ -440,6 +440,8 @@ a#black.dropdown-item:hover {
 .curvedAboutImage {
 	max-width: 100%;
      border-radius: 28%;
+	position: relative;
+    	left: 20%;
 }
 
 .curvedBorder{

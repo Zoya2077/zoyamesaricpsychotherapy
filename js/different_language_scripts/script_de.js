@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Online Psychotherapie und Psychoanalyse","Einzelpsychotherapie und Psychoanalyse", "Paarpsychotherapie und psychodynamische Psychotherapie", "Coaching"],
+		strings: ["Online Psychotherapie und Psychoanalyse","Individuelle Psychotherapie und Psychoanalyse", "Paarpsychotherapie und psychodynamische Psychotherapie", "Coaching"],
 		typeSpeed: 100,
 		loop: true,
 		startDelay: 500,

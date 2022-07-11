@@ -543,6 +543,15 @@ h4{
 	.leftContactButton {
 	margin-left: 0px;	
 	}
+	a.contactButton {
+    		width: 65%;
+	}
+	.titleMessage .heading .main {
+    		font-size: 25px;
+	}
+	p.main {
+    		font-weight: bolder;
+	}
 }
 
 

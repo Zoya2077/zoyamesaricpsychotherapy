@@ -471,7 +471,8 @@ a#black.dropdown-item:hover {
 h4{
     font-size: xx-large;
     color: black;
-    font-weight: bolder;	
+    font-weight: bolder;
+    overflow: auto;		
 }
 
 .col-md-3.col-sm-12.text-center {

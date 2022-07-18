@@ -497,19 +497,21 @@ h4{
         justify-content: center;
 }
 
+@media screen and (max-width: 1338px){
+	.socials {
+  	  height: 30px;
+   	 object-fit: cover;
+    	object-position: 50% 50%;
+    	position: relative;
+    	bottom: 3rem;
+	}
+}
+
 @media screen and (max-width: 1188px){
 	.navbar-collapse {
     justify-content: left;
 }
 }
-
-@media screen and (max-width: 1014px){
-	.socialsTab {
-    	position: relative;
-    	display: flex;
-	}
-}
-
 
 
 @media screen and (max-width: 1206px){
@@ -517,6 +519,25 @@ h4{
 	margin-left: 0px;	
 	}
 }
+
+@media screen and (max-width: 991px){
+	.socials {
+      	bottom: 0.5rem !important;
+	}
+	.socialsTab {
+    position: relative;
+	}
+}
+@media screen and (max-width: 1338px){
+	.socials {
+  	  height: 30px;
+   	 object-fit: cover;
+    	object-position: 50% 50%;
+    	position: relative;
+    	bottom: 3rem;
+	}
+}
+
 
 @media screen and (max-width: 900px){
 	.curvedAboutImage {

@@ -503,7 +503,7 @@ h4{
    	 object-fit: cover;
     	object-position: 50% 50%;
     	position: relative;
-    	bottom: 3rem;
+    	bottom: 3.5rem;
 	}
 }
 
@@ -520,12 +520,22 @@ h4{
 	}
 }
 
-@media screen and (max-width: 991px){
+@media screen and (max-width: 1118px){
+	a#navbarDropdownMenuLink78 {    
+		position:absolute;
+	}
+	}
+
+
+@media screen and (max-width: 992px){
 	.socials {
       	bottom: 0.5rem !important;
 	}
 	.socialsTab {
     position: relative;
+	}
+	a#navbarDropdownMenuLink78 {    
+		position:relative;
 	}
 }
 @media screen and (max-width: 1338px){
